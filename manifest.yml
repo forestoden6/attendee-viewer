@@ -9,3 +9,4 @@ applications:
   services:
   - config-server
   - service-registry
+  timeout: 180
