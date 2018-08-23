@@ -1,0 +1,14 @@
+app-name: attendee-viewer
+initials: fo
+language: gradle
+
+github-app-repo-uri: "git@github.com:forestoden6/attendee-viewer.git"
+
+github-pipelines-repo-uri: "git@github.com:forestoden6/training-pipelines.git"
+
+cf-dev-api: https://api.run.pivotal.io
+cf-dev-org: rscale-training-2
+cf-dev-space: forest
+cf-dev-hostname: attendee-viewer-foden
+cf-dev-domain: cfapps.io
+cf-dev-manifest: manifest.yml
