@@ -1,10 +1,8 @@
 package io.rscale.training.attendeeviewer;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
-@Primary
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Override
