@@ -9,4 +9,5 @@ applications:
   services:
   - config-server
   - service-registry
+  - oauth2
   timeout: 180
